@@ -1,6 +1,6 @@
 # communicating-between-vue-components
 
-> A Vue.js project
+> This is the source code for [the tutorial](https://blog.jscrambler.com/communicating-between-vue-2-components-and-google-maps/) on the JScrambler blog about how to communicate between Vue components using the EventBus design pattern.
 
 ## Build Setup
 
